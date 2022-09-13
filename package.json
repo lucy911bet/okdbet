@@ -1,12 +1,14 @@
 {
   "name": "okdbet911",
   "theme": "syntax",
-  "version": "1.0.429",
+  "version": "1.1.0",
   "description": "เดิมพันกับเว็บสล็อต okdbet เว็บตรงแตกง่ายไม่ผ่านเอเย่นต์",
   "keywords": [
-    "okdbet","okdbet เว็บสล็อต","okdbet เว็บตรง"
+    "okdbet",
+    "okdbet เว็บสล็อต",
+    "okdbet เว็บตรง"
   ],
-  "repository":"https://github.com/lucy911bet/okdbet",
+  "repository": "https://github.com/lucy911bet/okdbet",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
